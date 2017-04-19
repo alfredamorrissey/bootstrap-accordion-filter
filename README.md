@@ -31,8 +31,7 @@ Accordion filter, with matching alert div
 			</tr>
 		</table>
 		
-		<h1>Accordion Alerts Div</h1>
-		<h2>Properties</h2>
+		<h2>Accordion Alerts Div</h2>
 		<table class="table table-hover"
 			id="divProp"
 			data-toggle="table"
