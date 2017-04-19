@@ -32,6 +32,7 @@ Accordion filter, with matching alert div
 </table>
 
 <h2>Accordion Alerts Div</h2>
+
 <table class="table table-hover"
 	id="divProp"
 	data-toggle="table"
@@ -51,7 +52,8 @@ Accordion filter, with matching alert div
 </table>
 
 <h2>Accordion Filter Methods</h2>
-<p>The calling method syntax: <code>$(&#39;#sidebarGroupAccordion&#39;).accordionFilter(&#39;method&#39;, parameter);</code>.</p>
+<p>The calling method syntax: <code>$(&#39;#sidebarGroupAccordion&#39;).accordionFilter(&#39;method&#39;, parameter);</code>.
+</p>
 
 <table class="table table-hover"
 	id="accordionMethods"
@@ -72,6 +74,7 @@ Accordion filter, with matching alert div
 </table>
 
 <h2>Accordion Filter Events</h2>
+
 <p>	To use event syntax:</p>
 
 <div class="highlight">
