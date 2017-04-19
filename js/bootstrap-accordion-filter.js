@@ -1,3 +1,9 @@
+/**
+ * @author Alfreda Morrissey <amorriss@uottawa.ca>
+ * version: 1.0.0
+ * https://github.com/alfredamorrissey/bootstrap-accordion-filter
+ */
+
 if (window.Prototype) {
     delete Array.prototype.toJSON;
 }
