@@ -1,0 +1,101 @@
+{
+	"curriculum_track_id": {
+		"label" : "Stream",
+		"items" : [
+			{
+				"label": "English",
+				"value": "1"
+			},
+			{
+				"label": "French",
+				"value": "2"
+			}
+		]
+	},
+	"event_type_id": {
+		"label" : "Event Type",
+		"items" : [
+			{
+				"label": "Clerkship Seminars",
+				"value": "1"
+			},
+			{
+				"label": "Directed Independent Learning",
+				"value": "2"
+			},
+			{
+				"label": "Examination",
+				"value": "3"
+			},
+			{
+				"label": "Other",
+				"value": "4"
+			}
+		]
+	},
+	"curriculum_type_id": {
+		"label" : "Year of Study",
+		"items" : [
+			{
+				"label": "Year 1",
+				"value": "1",
+				"items": [
+					{
+						"label": "Fall 2017",
+						"value": "1"
+					},
+					{
+						"label": "Fall 2018",
+						"value": "2"
+					},
+					{
+						"label": "Spring 2017",
+						"value": "3"
+					},
+					{
+						"label": "Spring 2018",
+						"value": "4"
+					},
+					{
+						"label": "Winter 2017",
+						"value": "5"
+					},
+					{
+						"label": "Spring 2018",
+						"value": "6"
+					}
+				]
+			},
+			{
+				"label": "Year 2",
+				"value": "2",
+				"items": [
+					{
+						"label": "Fall 2017",
+						"value": "7"
+					},
+					{
+						"label": "Fall 2017",
+						"value": "8"
+					},
+					{
+						"label": "Spring 2017",
+						"value": "9"
+					},
+					{
+						"label": "Fall 2018",
+						"value": "10"
+					},
+					{
+						"label": "Fall 2018",
+						"value": "11"
+					},
+					{
+						"label": "Spring 2018",
+						"value": "12"
+					}
+				]
+			}
+		]
+	}
+}

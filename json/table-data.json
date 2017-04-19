@@ -1,0 +1,222 @@
+[
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Fall 2018 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "Test course event by geoff",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "4",
+		"section": ""
+	},
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Fall 2018 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "Another Test course event by geoff",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "5",
+		"section": ""
+	},
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Fall 2018 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "lecture",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "9",
+		"section": ""
+	},
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Fall 2018 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "Physiologie cardiovasculaire appliqu\u00e9e \u2013 partie 2",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "14",
+		"location": [
+			{
+				"event_id": "14",
+				"section_id": "7",
+				"room_id": "48",
+				"roomNumber": "25\/06\/2017 : RGN2111"
+			}
+		],
+		"section": "25\/06\/2017 : RGN2111"
+	},
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Winter 2017 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "Test course event by geoff",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "4",
+		"section": ""
+	},
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Winter 2017 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "Another Test course event by geoff",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "5",
+		"section": ""
+	},
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Winter 2017 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "lecture",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "9",
+		"section": ""
+	},
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Winter 2017 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "Physiologie cardiovasculaire appliqu\u00e9e \u2013 partie 2",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "14",
+		"location": [
+			{
+				"event_id": "14",
+				"section_id": "7",
+				"room_id": "48",
+				"roomNumber": "25\/06\/2017 : RGN2111"
+			}
+		],
+		"section": "25\/06\/2017 : RGN2111"
+	},
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Winter 2018 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "Test course event by geoff",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "4",
+		"section": ""
+	},
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Winter 2018 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "Another Test course event by geoff",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "5",
+		"section": ""
+	},
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Winter 2018 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "lecture",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "9",
+		"section": ""
+	},
+	{
+		"curriculum_type_name": "Year 1",
+		"curriculum_period_title": "Winter 2018 (Year 1)",
+		"curriculum_track_name": "English",
+		"course_name": "Introduction to the Profession Unit",
+		"theme_name": "Hogwarts Day",
+		"event_title": "Physiologie cardiovasculaire appliqu\u00e9e \u2013 partie 2",
+		"course_id": "13",
+		"theme_id": "4",
+		"event_id": "14",
+		"location": [
+			{
+				"event_id": "14",
+				"section_id": "7",
+				"room_id": "48",
+				"roomNumber": "25\/06\/2017 : RGN2111"
+			}
+		],
+		"section": "25\/06\/2017 : RGN2111"
+	},
+	{
+		"curriculum_type_name": "Year 3",
+		"curriculum_period_title": "Winter 2017 (Year 3)",
+		"curriculum_track_name": "French",
+		"course_name": "Course 3 year 3 (French)",
+		"theme_name": "test",
+		"event_title": "Learning event 1",
+		"course_id": "3",
+		"theme_id": "6",
+		"event_id": "1",
+		"location": [
+			{
+				"event_id": "1",
+				"section_id": "12",
+				"room_id": "2",
+				"roomNumber": "22\/01\/2017 : Amph. B - RGN2003"
+			}
+		],
+		"section": "22\/01\/2017 : Amph. B - RGN2003"
+	},
+	{
+		"curriculum_type_name": "Year 3",
+		"curriculum_period_title": "Winter 2017 (Year 3)",
+		"curriculum_track_name": "French",
+		"course_name": "Course 3 year 3 (French)",
+		"theme_name": "test",
+		"event_title": "test3",
+		"course_id": "3",
+		"theme_id": "6",
+		"event_id": "8",
+		"section": ""
+	},
+	{
+		"curriculum_type_name": "Year 3",
+		"curriculum_period_title": "Winter 2017 (Year 3)",
+		"curriculum_track_name": "French",
+		"course_name": "Course 3 year 3 (French)",
+		"theme_name": "test",
+		"event_title": "Course2Year1 Event",
+		"course_id": "3",
+		"theme_id": "6",
+		"event_id": "12",
+		"location": [
+			{
+				"event_id": "12",
+				"section_id": "13",
+				"room_id": "48",
+				"roomNumber": "16\/03\/2017 : RGN2111"
+			}
+		],
+		"section": "16\/03\/2017 : RGN2111"
+	}
+]
